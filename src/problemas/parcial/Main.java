@@ -13,5 +13,10 @@ public class Main {
 	public static void numeroFactorial() {
 		//TODO logica de programacion
 	}
+	
+	// Problema 1
+	public static void sumatoriaNumeroDivisible() {
+		//TODO logica de programacion
+	}
 
 }
