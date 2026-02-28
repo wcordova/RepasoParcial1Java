@@ -16,7 +16,7 @@ public class Main {
 	
 	// Problema 1
 	public static void sumatoriaNumeroDivisible() {
-		//TODO logica de programacion
+		//TODO logica de programacion.
 	}
 
 }
